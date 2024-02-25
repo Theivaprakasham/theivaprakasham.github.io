@@ -1,0 +1,32 @@
+title: Theivaprakasham Hari
+author: Theivaprakasham Hari
+email: theivaprakasham@gmail.com
+description: >
+  Dedicated to innovation in Artificial Intelligence, Theivaprakasham Hari's work spans computer vision, machine learning, and edge computing. This site showcases projects, publications, and contributions to technology for good.
+show_excerpts: true
+
+# Customize date format if desired
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Theivaprakasham Hari
+  tagline: AI Researcher | Wildlife Conservation Technologist
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  search: true
+  dark_mode: true
+  portfolio_image: "assets/theivaprakasham-hari-profile.png" # Update with your image path
+  html_lang: "en"
+  condensed_mobile:
+    - page
+    - post
+  social_links:
+    twitter: https://twitter.com/theivaprakasham # Replace with your handle
+    github: https://github.com/Theivaprakasham
+    linkedIn: https://www.linkedin.com/in/theivaprakasham/
+    # Add or remove social platforms as needed
+
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
